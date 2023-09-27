@@ -9,3 +9,9 @@ Screenshot of repository <br>
 <img width="920" alt="2 1" src="https://github.com/nxf-emma/nxf-emma.github.io/assets/84111551/17583096-9d4d-44a2-9074-56bb8ec312bc"> <br>
 Screenshot of personal website <br>
 <img width="1335" alt="2 2" src="https://github.com/nxf-emma/nxf-emma.github.io/assets/84111551/03198b19-761e-425e-a54c-36d577de58d7">
+
+## Activity 3:
+Screenshot of repository <br>
+<img width="917" alt="3 1" src="https://github.com/nxf-emma/nxf-emma.github.io/assets/84111551/f6adba36-165d-4788-b4fd-c606edf4fea0"> <br>
+Screenshot of personal website <br>
+<img width="1408" alt="3 2" src="https://github.com/nxf-emma/nxf-emma.github.io/assets/84111551/c15f610f-fa92-4148-8f12-aef89a5d38b1">
